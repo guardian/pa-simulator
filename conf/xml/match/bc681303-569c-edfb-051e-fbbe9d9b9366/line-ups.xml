@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <match id="bc681303-569c-edfb-051e-fbbe9d9b9366">
+        <dateTime>2013-09-16T13:00:00</dateTime>
+        <status>result</status>
+        <stage>Fifth One Day International</stage>
+        <currentDay>1</currentDay>
+        <totalDays>1</totalDays>
+        <toss>
+            <description>Australia won the toss and elected to bat</description>
+            <winner type="bat">
+                <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
+                    <name>Australia</name>
+                </team>
+            </winner>
+        </toss>
+        <venue id="51ac14a1-4ca0-9ed7-ec90-494c1be6f6b4">
+            <name>The Ageas Bowl</name>
+        </venue>
+        <official order="1" type="on-field">
+            <name>Aleem Dar</name>
+        </official>
+        <official order="2" type="on-field">
+            <name>R J Bailey</name>
+        </official>
+        <official order="3" type="match-referee">
+            <name>J J Crowe</name>
+        </official>
+        <official order="4" type="third">
+            <name>S Ravi</name>
+        </official>
+        <team id="a359844f-fc07-9cfa-d4cc-9a9ac0d5d075">
+            <name>England</name>
+            <home>true</home>
+            <player id="15c5f55e-b25d-24d9-baf0-6dda989530dd" order="1">
+                <name>M A Carberry</name>
+                <initials>M A</initials>
+                <firstName>Michael</firstName>
+                <middleName>Alexander</middleName>
+                <lastName>Carberry</lastName>
+            </player>
+            <player id="a76588c2-25c9-d0c7-610e-0779a0521c21" order="2">
+                <name>K P Pietersen</name>
+                <initials>K P</initials>
+                <firstName>Kevin</firstName>
+                <middleName>Peter</middleName>
+                <lastName>Pietersen</lastName>
+            </player>
+            <player id="0f47b7ac-1aeb-74cb-5234-6956424270cf" order="3">
+                <name>L J Wright</name>
+                <initials>L J</initials>
+                <firstName>Luke</firstName>
+                <middleName>James</middleName>
+                <lastName>Wright</lastName>
+            </player>
+            <player id="12f87991-5a16-81b2-952c-6b7f567e5962" order="4">
+                <name>J E Root</name>
+                <initials>J E</initials>
+                <firstName>Joe</firstName>
+                <lastName>Root</lastName>
+            </player>
+            <player id="0eea5f4f-7057-4e5c-8196-cc831fc5bb19" order="5">
+                <name>E J G Morgan</name>
+                <initials>E J G</initials>
+                <firstName>Eoin</firstName>
+                <middleName>Joseph Gerard</middleName>
+                <lastName>Morgan</lastName>
+                <captain>true</captain>
+            </player>
+            <player id="0eadb93a-cf4e-11f7-20b6-97f603d55516" order="6">
+                <name>R S Bopara</name>
+                <initials>R S</initials>
+                <firstName>Ravi</firstName>
+                <middleName>Singh</middleName>
+                <lastName>Bopara</lastName>
+            </player>
+            <player id="f5e7e7a0-14e0-9d27-1fa2-ca68a7780336" order="7">
+                <name>J C Buttler</name>
+                <initials>J C</initials>
+                <firstName>Jose</firstName>
+                <middleName>Charles</middleName>
+                <lastName>Buttler</lastName>
+                <wicketKeeper>true</wicketKeeper>
+            </player>
+            <player id="75aeb587-54f0-ccb2-4db9-00fa54718507" order="8">
+                <name>B A Stokes</name>
+                <initials>B A</initials>
+                <firstName>Ben</firstName>
+                <middleName>Andrew</middleName>
+                <lastName>Stokes</lastName>
+            </player>
+            <player id="2a555933-9cd1-691c-0b5f-497659b6a24e" order="9">
+                <name>J C Tredwell</name>
+                <initials>J C</initials>
+                <firstName>James</firstName>
+                <middleName>Cullum</middleName>
+                <lastName>Tredwell</lastName>
+            </player>
+            <player id="1edca0d3-f6dd-81b7-3666-b8d3825e777c" order="10">
+                <name>W B Rankin</name>
+                <initials>W B</initials>
+                <firstName>William</firstName>
+                <middleName>Boyd</middleName>
+                <lastName>Rankin</lastName>
+            </player>
+            <player id="c703eda0-bce9-e857-1482-4b73add5e044" order="11">
+                <name>C J Jordan</name>
+                <initials>C J</initials>
+                <firstName>Chris</firstName>
+                <middleName>James</middleName>
+                <lastName>Jordan</lastName>
+            </player>
+        </team>
+        <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
+            <name>Australia</name>
+            <home>false</home>
+            <player id="856aff95-2b12-424f-4485-188f8c627fdf" order="1">
+                <name>A J Finch</name>
+                <initials>A J</initials>
+                <firstName>Aaron</firstName>
+                <middleName>James</middleName>
+                <lastName>Finch</lastName>
+            </player>
+            <player id="fb8a79b4-d745-cc38-d9b3-4720c87df4be" order="2">
+                <name>P J Hughes</name>
+                <initials>P J</initials>
+                <firstName>Philip</firstName>
+                <middleName>Joel</middleName>
+                <lastName>Hughes</lastName>
+            </player>
+            <player id="546aa6b8-978c-bd6f-daa5-357b8bdcfab3" order="3">
+                <name>S R Watson</name>
+                <initials>S R</initials>
+                <firstName>Shane</firstName>
+                <middleName>Robert</middleName>
+                <lastName>Watson</lastName>
+            </player>
+            <player id="213b985e-a167-e5f4-b212-8816349103a2" order="4">
+                <name>M J Clarke</name>
+                <initials>M J</initials>
+                <firstName>Michael</firstName>
+                <middleName>John</middleName>
+                <lastName>Clarke</lastName>
+                <captain>true</captain>
+            </player>
+            <player id="1099c318-da55-8900-fc74-35335c28924d" order="5">
+                <name>G J Bailey</name>
+                <initials>G J</initials>
+                <firstName>George</firstName>
+                <middleName>John</middleName>
+                <lastName>Bailey</lastName>
+            </player>
+            <player id="4fd0fe2f-7109-58c1-1a66-fe4fe2da92a1" order="6">
+                <name>A C Voges</name>
+                <initials>A C</initials>
+                <firstName>Adam</firstName>
+                <middleName>Charles</middleName>
+                <lastName>Voges</lastName>
+            </player>
+            <player id="2ce8f802-020a-29a7-0731-6c85ecaf8498" order="7">
+                <name>M S Wade</name>
+                <initials>M S</initials>
+                <firstName>Matthew</firstName>
+                <middleName>Scott</middleName>
+                <lastName>Wade</lastName>
+                <wicketKeeper>true</wicketKeeper>
+            </player>
+            <player id="b2f30d33-5650-5ba3-8354-68dd2ee3be28" order="8">
+                <name>J P Faulkner</name>
+                <initials>J P</initials>
+                <firstName>James</firstName>
+                <middleName>Peter</middleName>
+                <lastName>Faulkner</lastName>
+            </player>
+            <player id="7aa8718e-113b-7216-b0e9-230c856417cf" order="9">
+                <name>M G Johnson</name>
+                <initials>M G</initials>
+                <firstName>Mitchell</firstName>
+                <middleName>Guy</middleName>
+                <lastName>Johnson</lastName>
+            </player>
+            <player id="b4374b5d-3790-112a-c1a9-eb7b0540deb7" order="10">
+                <name>Fawad Ahmed</name>
+                <initials>Fawad</initials>
+                <firstName>Fawad</firstName>
+                <lastName>Ahmed</lastName>
+            </player>
+            <player id="5f4133eb-5cc9-bd50-927b-23f74dbd0966" order="11">
+                <name>C J McKay</name>
+                <initials>C J</initials>
+                <firstName>Clinton</firstName>
+                <middleName>James</middleName>
+                <lastName>McKay</lastName>
+            </player>
+        </team>
+    </match>
+</cricket>

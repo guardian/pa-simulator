@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <competition id="e888521f-6877-cec7-65c6-f30f2c5835d8">
+        <match id="bc681303-569c-edfb-051e-fbbe9d9b9366">
+            <dateTime>2013-09-16T13:00:00</dateTime>
+            <status>result</status>
+            <stage>Fifth One Day International</stage>
+            <venue id="51ac14a1-4ca0-9ed7-ec90-494c1be6f6b4">
+                <name>The Ageas Bowl</name>
+            </venue>
+            <team id="a359844f-fc07-9cfa-d4cc-9a9ac0d5d075">
+                <name>England</name>
+                <home>true</home>
+            </team>
+            <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
+                <name>Australia</name>
+                <home>false</home>
+            </team>
+            <result type="away-win">
+                <description/>
+                <winner type="runs">
+                    <margin>49</margin>
+                    <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
+                        <name>Australia</name>
+                    </team>
+                </winner>
+            </result>
+        </match>
+    </competition>
+</cricket>

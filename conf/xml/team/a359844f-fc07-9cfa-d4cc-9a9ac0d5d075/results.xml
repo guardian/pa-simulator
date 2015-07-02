@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+<!--    <competition id="3e4036da-43d4-500d-b836-2a34b2cad8b4">
+        <name>Test Match Series</name>
+        <match id="acd2329e-0def-c605-24a7-754dee8dd9bb">
+            <dateTime>2010-11-25T00:00:00</dateTime>
+            <status>result</status>
+            <stage/>
+            <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
+                <name>Australia</name>
+                <home>true</home>
+            </team>
+            <team id="a359844f-fc07-9cfa-d4cc-9a9ac0d5d075">
+                <name>England</name>
+                <home>false</home>
+            </team>
+            <result type="draw">
+                <description/>
+            </result>
+        </match>
+    </competition>-->
+</cricket>

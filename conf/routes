@@ -1,0 +1,6 @@
+GET /match/:matchId/line-ups         controllers.Match.lineUps(matchId: java.util.UUID)
+GET /match/:matchId/scorecard        controllers.Match.scoreCard(matchId: java.util.UUID)
+GET /match/:matchId/next-file         controllers.Match.nextFile(matchId: java.util.UUID)
+GET /match/:matchId                  controllers.Match.byId(matchId: java.util.UUID)
+GET /team/:teamId/fixtures           controllers.Team.fixtures(teamId: java.util.UUID)
+GET /team/:teamId/results            controllers.Team.results(teamId: java.util.UUID)
