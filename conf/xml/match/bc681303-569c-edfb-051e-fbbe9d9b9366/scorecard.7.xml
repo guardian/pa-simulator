@@ -2,7 +2,7 @@
 <cricket>
     <match id="bc681303-569c-edfb-051e-fbbe9d9b9366">
         <dateTime>2015-07-03T13:00:00</dateTime>
-        <status>in-play</status>
+        <status>stumps</status>
         <stage>Fifth One Day International</stage>
         <currentDay>1</currentDay>
         <totalDays>5</totalDays>
@@ -664,7 +664,7 @@
             <statistic type="extra-wides">6</statistic>
             <statistic type="extra-total">14</statistic>
             <statistic type="overs">48.0</statistic>
-            <statistic type="runs-scored">219</statistic>
+            <statistic type="runs-scored">249</statistic>
             <statistic type="wickets">10</statistic>
             <fallenWicket order="1">
                 <statistic type="runs">1</statistic>
@@ -784,7 +784,7 @@
                     <day>0</day>
                     <statistic type="minutes-batting">53</statistic>
                     <statistic type="balls-faced">50</statistic>
-                    <statistic type="runs-scored">0</statistic>
+                    <statistic type="runs-scored">30</statistic>
                     <statistic type="fours">4</statistic>
                     <statistic type="sixes">0</statistic>
                     <statistic type="non-strike">0</statistic>

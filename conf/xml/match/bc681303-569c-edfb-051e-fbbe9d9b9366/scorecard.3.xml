@@ -5,7 +5,7 @@
         <status>in-play</status>
         <stage>Fifth One Day International</stage>
         <currentDay>1</currentDay>
-        <totalDays>1</totalDays>
+        <totalDays>5</totalDays>
         <toss>
             <description>Australia won the toss and elected to bat</description>
             <winner type="bat">

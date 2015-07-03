@@ -2,10 +2,10 @@
 <cricket>
     <match id="bc681303-569c-edfb-051e-fbbe9d9b9366">
         <dateTime>2015-07-03T13:00:00</dateTime>
-        <status>result</status>
+        <status>in-play</status>
         <stage>Fifth One Day International</stage>
         <currentDay>1</currentDay>
-        <totalDays>1</totalDays>
+        <totalDays>5</totalDays>
         <toss>
             <description>Australia won the toss and elected to bat</description>
             <winner type="bat">
@@ -37,14 +37,5 @@
             <name>Australia</name>
             <home>false</home>
         </team>
-        <result type="away-win">
-            <description/>
-            <winner type="runs">
-                <margin>49</margin>
-                <team id="f7f611a1-e667-2aa2-c3e0-6dbc6981cfa4">
-                    <name>Australia</name>
-                </team>
-            </winner>
-        </result>
     </match>
 </cricket>

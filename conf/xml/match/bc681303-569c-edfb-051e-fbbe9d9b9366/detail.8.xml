@@ -2,7 +2,7 @@
 <cricket>
     <match id="bc681303-569c-edfb-051e-fbbe9d9b9366">
         <dateTime>2015-07-03T13:00:00</dateTime>
-        <status>pre-match</status>
+        <status>lunch</status>
         <stage>Fifth One Day International</stage>
         <currentDay>1</currentDay>
         <totalDays>5</totalDays>
@@ -17,6 +17,18 @@
         <venue id="51ac14a1-4ca0-9ed7-ec90-494c1be6f6b4">
             <name>The Ageas Bowl</name>
         </venue>
+        <official order="1" type="on-field">
+            <name>Aleem Dar</name>
+        </official>
+        <official order="2" type="on-field">
+            <name>R J Bailey</name>
+        </official>
+        <official order="3" type="match-referee">
+            <name>J J Crowe</name>
+        </official>
+        <official order="4" type="third">
+            <name>S Ravi</name>
+        </official>
         <team id="a359844f-fc07-9cfa-d4cc-9a9ac0d5d075">
             <name>England</name>
             <home>true</home>
