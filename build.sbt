@@ -7,8 +7,7 @@ lazy val root = (project in file(".")).enablePlugins(PlayScala)
 scalaVersion := "2.11.6"
 
 libraryDependencies ++= Seq(
-  cache,
-  specs2 % Test
+  cache
 )
 
 // Play provides two styles of routers, one expects its actions to be injected, the
